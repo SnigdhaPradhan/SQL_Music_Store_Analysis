@@ -4,8 +4,7 @@ Here I have analyzed the music playlist database. One can examine the dataset wi
 
 **Database and Tools**
 
-Postgre SQL   return
-PgAdmin4
+Postgre SQL    return PgAdmin4
 
 **Schema- Music Store Database**
 
